@@ -8,8 +8,8 @@
     basic app but i still think it's a good starting point to develop my skills in vue </p>
     <p>I was able to implement concepts like <i>Interpolation</i>,<i>routing</i>,<i>Linting</i>... just to name a few.</p>
     <p>While I enjoy using plain  <strong>Css</strong> media queries to make simple sites like this <i>responsive</i>,
-    <!-- I decided to go with <strong>bootstrap</strong> on this one just to try implementing it on vue</p> -->
-    <!-- <p>Learning vue has actually been quite exciting for me. I am currently working on a much bigger project that is going to cover a lot more concepts in vue</p> -->
+  I decided to go with <strong>bootstrap</strong> on this one just to try implementing it on vue</p>
+    <p>Learning vue has actually been quite exciting for me. I am currently working on a much bigger project that is going to cover a lot more concepts in vue</p>
     <p></p>
     <p></p>
     
@@ -33,7 +33,7 @@ export default {
 .about {
     background: white;
     float: left;
-    height:  100%;
+    height:  90%;
     padding: 10px
 }
 img{

@@ -36,7 +36,7 @@ body, html {
 }
 #app {
     width: 80%;
-    height: 80%;
+    height: 100%;
     margin: 50px;
     margin-top: 0px;
     
