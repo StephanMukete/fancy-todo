@@ -10,9 +10,6 @@
     <p>While I enjoy using plain  <strong>Css</strong> media queries to make simple sites like this <i>responsive</i>,
   I decided to go with <strong>bootstrap</strong> on this one just to try implementing it on vue</p>
     <p>Learning vue has actually been quite exciting for me. I am currently working on a much bigger project that is going to cover a lot more concepts in vue</p>
-    <p></p>
-    <p></p>
-    
   </div>
 </template>
 
